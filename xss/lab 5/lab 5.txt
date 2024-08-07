@@ -1,0 +1,6 @@
+open feedback and in search bar type this command
+-->path=javascript:alert(1)
+
+and come to back from feedback
+
+your lab has been solved....

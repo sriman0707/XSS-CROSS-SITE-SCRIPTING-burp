@@ -1,0 +1,3 @@
+in this lab
+we need to take a post and and comment this command on the post and we need to give name,gmail and a web site
+<script>alert(1)</script>
